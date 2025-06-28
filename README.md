@@ -11,6 +11,9 @@ Languages and Tools
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
+  <a href="https://astro.build/">
+    <img src="https://img.shields.io/badge/Astro-222222?style=for-the-badge&logo=astro&logoColor=white" />
+  </a>
 </p>
 </br>
 📫 How to Reach Me
