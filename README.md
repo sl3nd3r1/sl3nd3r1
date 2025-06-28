@@ -5,10 +5,10 @@ Hallo, ich bin sl3nd3r1! Ich bin ein Backend-Entwickler aus Berlin 🇩🇪 mit 
 
 Languages and Tools
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://go.dev">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.typescriptlang.org">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://astro.build/">
