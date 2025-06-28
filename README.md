@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm sl3nd3r1 👋
+I'm a Backend Developer based in Berlin 🇩🇪 with a passion for building secure, scalable, and efficient applications. I specialize in Go (Golang) and enjoy creating robust backend systems, while also working with modern frontend technologies like TypeScript and Astro.js to build full-stack solutions.
 
-<!--
-**sl3nd3r1/sl3nd3r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hallo, ich bin sl3nd3r1! Ich bin ein Backend-Entwickler aus Berlin 🇩🇪 mit einer Leidenschaft für die Entwicklung sicherer, skalierbarer und effizienter Anwendungen. Ich bin auf Go (Golang) spezialisiert und erstelle gerne robuste Backend-Systeme, arbeite aber auch mit modernen Frontend-Technologien wie TypeScript und Astro.js, um Full-Stack-Lösungen zu entwickeln.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+</p>
+📊 My GitHub Stats
+📫 How to Reach Me
+I'm always open to connecting with other developers, discussing new technologies, or collaborating on projects. Feel free to reach out!
