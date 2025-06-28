@@ -16,3 +16,5 @@ Languages and Tools
 📫 How to Reach Me
 </br>
 I'm always open to connecting with other developers, discussing new technologies, or collaborating on projects. Feel free to reach out!
+<br>
+Email: ebi.razmahang@gmail.com
