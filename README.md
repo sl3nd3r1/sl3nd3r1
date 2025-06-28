@@ -4,7 +4,7 @@ I'm a Backend Developer based in Berlin 🇩🇪 with a passion for building sec
 Hallo, ich bin sl3nd3r1! Ich bin ein Backend-Entwickler aus Berlin 🇩🇪 mit einer Leidenschaft für die Entwicklung sicherer, skalierbarer und effizienter Anwendungen. Ich bin auf Go (Golang) spezialisiert und erstelle gerne robuste Backend-Systeme, arbeite aber auch mit modernen Frontend-Technologien wie TypeScript und Astro.js, um Full-Stack-Lösungen zu entwickeln.
 
 Languages and Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   </a>
@@ -12,6 +12,7 @@ Languages and Tools
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
 </p>
-📊 My GitHub Stats
+</br>
 📫 How to Reach Me
+</br>
 I'm always open to connecting with other developers, discussing new technologies, or collaborating on projects. Feel free to reach out!
